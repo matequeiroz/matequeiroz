@@ -1,11 +1,13 @@
 <h3> Olá, bem-vindo! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+<h3> Olá, bem-vindo! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h3>
+
 <h2>Sobre min 🙋‍♂</h2>
 
 🇧🇷 &nbsp; Natural de Recife/PE <br>
 🎓 &nbsp; Graduado em Análise e Desenv de Sistemas <br>
-💼 &nbsp; Front End Developer Pleno na [Invillia](https://invillia.com/) <br>
+💼 &nbsp; Front End Developer Pleno na [Zup Innovation](https://www.zup.com.br/) <br>
 🎮 &nbsp; Curte um gameplay de FIFA/PES <br>
 ✍️ &nbsp; Está sempre lendo posts de techs <br>
 ☕ &nbsp; Café nem sempre <br>
