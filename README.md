@@ -1,8 +1,6 @@
 <h3> Olá, bem-vindo! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> Olá, bem-vindo! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h3>
-
 <h2>Sobre min 🙋‍♂</h2>
 
 🇧🇷 &nbsp; Natural de Recife/PE <br>
