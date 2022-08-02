@@ -8,7 +8,6 @@
 💼 &nbsp; Front End Developer na [PagSeguro PagBank](https://pagseguro.uol.com.br) <br>
 🎮 &nbsp; Curte um gameplay de FIFA/PES <br>
 ✍️ &nbsp; Está sempre lendo posts de techs <br>
-☕ &nbsp; Café nem sempre <br>
 
 <h2>Tecnologias 👨‍💻</h2>
 <div>
@@ -21,7 +20,9 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="react" width="30" height="30"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="30" height="30"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="30" height="30"/>
+	
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="react" width="30" height="30"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="react" width="30" height="30"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="react" width="30" height="30"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="react" width="30" height="30"/>
