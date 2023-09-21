@@ -5,7 +5,7 @@
 
 🇧🇷 &nbsp; Natural de Recife/PE <br>
 🎓 &nbsp; Graduado em Análise e Desenv de Sistemas <br>
-💼 &nbsp; Front End Developer na [PagSeguro PagBank](https://pagseguro.uol.com.br) <br>
+💼 &nbsp; Front End Developer na [Mercado Pago](https://www.mercadopago.com.br/)) <br>
 🎮 &nbsp; Curte um gameplay de FIFA/PES <br>
 ✍️ &nbsp; Está sempre lendo posts de techs <br>
 
